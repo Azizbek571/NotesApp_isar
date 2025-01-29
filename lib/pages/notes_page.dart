@@ -108,7 +108,7 @@ class _NotesPageState extends State<NotesPage> {
 
         children: [
           Padding(padding: const EdgeInsets.only(left: 25),
-            child: Text("Notes",
+            child: Text("Notes   o'zgardimi?3001 ",
              style: TextStyle(fontSize: 48, 
              color: Theme.of(context).colorScheme.inversePrimary
              )
